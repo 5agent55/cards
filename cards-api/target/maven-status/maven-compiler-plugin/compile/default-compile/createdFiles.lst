@@ -1,0 +1,6 @@
+sk\ptacademy\cards\api\model\GameDirection.class
+sk\ptacademy\cards\api\model\Deck.class
+sk\ptacademy\cards\api\GameRules.class
+sk\ptacademy\cards\api\model\Color.class
+sk\ptacademy\cards\api\model\Card.class
+sk\ptacademy\cards\api\model\Player.class
