@@ -33,7 +33,7 @@ public class CardsServer {
         }
         context.addPlayer(player);
         if (context.players.size() >= gameRule.getMaxPlayersCount()){
-
+            //to do
         }
 
         return player;
